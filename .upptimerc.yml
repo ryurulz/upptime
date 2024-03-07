@@ -5,10 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Clockhash
     url: https://www.clockhash.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Google
+    url: https://google.com
   - name: Test Broken Site
     url: https://testsite.sh
 
