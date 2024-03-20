@@ -4,7 +4,7 @@
     "url": "https://www.clockhash.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clockhash.com.ico",
     "slug": "clockhash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 735,
     "timeMonth": 746,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "Google",
