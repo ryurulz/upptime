@@ -4,19 +4,19 @@
     "url": "https://www.clockhash.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clockhash.com.ico",
     "slug": "clockhash",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 649,
-    "timeWeek": 735,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 761,
+    "timeDay": 893,
+    "timeWeek": 796,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-03-20": 0
+      "2024-03-20": 83
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 124,
-    "timeWeek": 165,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 140,
+    "timeDay": 115,
+    "timeWeek": 145,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   },
   {
